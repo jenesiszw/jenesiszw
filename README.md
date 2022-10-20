@@ -8,18 +8,9 @@ I'm an experienced software developer with expertise in the design, development,
 
 <h3>Employement History</h3>
 
-<h4>Full-Stack Software Developer, Contitouch Technologies</h4>
+<h4>Full-Stack Software Developer, <a href="https://contitouch.co.zw/">Contitouch Technologies</a>></h4>
 
 *May 2019* — *Present, Harare*
-
-➜ Work with other developers to design software systems <br>
-➜ Produce clean, efficient code based on specifications <br>
-➜ Integrate software components and third-party programs <br>
-➜ Verify and deploy programs and systems <br>
-➜ Troubleshoot, debug and upgrade existing software <br>
-➜ Gather and evaluate user feedback <br>
-➜ Recommend and execute improvements <br>
-➜ Create technical documentation for reference and reporting <br>
 
 <h3>Skills</h3>
 
@@ -65,5 +56,6 @@ I'm an experienced software developer with expertise in the design, development,
 
 ➜ <a href="https://twitter.com/iamjenesiszw">Twitter</a> <br>
 ➜ <a href="https://www.facebook.com/profile.php?id=100086564661839">Facebook</a> <br>
+➜ <a href="https://wa.me/263782000340">WhatsApp</a> <br>
 
 
