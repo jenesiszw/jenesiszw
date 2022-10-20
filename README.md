@@ -8,7 +8,7 @@ I'm an experienced software developer with expertise in the design, development,
 
 <h3>Employement History</h3>
 
-<h4>Full-Stack Software Developer, <a href="https://contitouch.co.zw/">Contitouch Technologies</a>></h4>
+<h4>Full-Stack Software Developer, <a href="https://contitouch.co.zw/">Contitouch Technologies</a></h4>
 
 *May 2019* — *Present, Harare*
 
