@@ -61,7 +61,7 @@ I'm an experienced software developer with expertise in the design, development,
 ➜ <a href="https://wa.me/263788788034"> OK Shoppers Choice </a> <br>
 ➜ <a href="https://wa.me/263788788051"> Hammer & Tongues Auction </a> <br>
 
-<h3>Social Links<h3/>
+<h3>Social Links</h3>
 
 ➜ <a href="https://twitter.com/iamjenesiszw">Twitter</a> <br>
 ➜ <a href="https://www.facebook.com/profile.php?id=100086564661839">Facebook</a> <br>
