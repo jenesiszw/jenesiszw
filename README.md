@@ -25,9 +25,8 @@ I'm an experienced software developer with expertise in the design, development,
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="NestJs" width="26px" src="https://avatars.githubusercontent.com/u/28507035?s=200&v=4" />
-<img align="left" alt="AdonisJs" width="26px" src="https://avatars.githubusercontent.com/u/13810373?s=200&v=4" />
+<img align="left" alt="AdonisJs" width="26px" src="https://avatars.githubusercontent.com/u/13810373?s=200&v=4" /><br>
 
-<br>
 
 <h3>Hobbies</h3><hr>
 
