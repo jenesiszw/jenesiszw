@@ -44,7 +44,7 @@ I'm an experienced software developer with expertise in the design, development,
 <h4> Mobile Apps </h4>
 
 ➜ <a href="https://play.google.com/store/apps/details?id=zw.co.contitouch.agricura&hl=en&gl=US"> Agricura Mobile App </a> <br>
-➜ <a href="https://play.google.com/store/apps/details?id=com.promo.shopperschoice"> OK Shoppers Choice App </a> <br>
+➜ <a href="https://play.google.com/store/apps/details?id=com.promo.shopperschoice"> OK Shoppers Choice App </a> <br><br>
 
 <h4> USSDs </h4>
 
