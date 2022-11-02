@@ -1,4 +1,3 @@
-![Nigel Jaure - Full-stack software developer](https://user-images.githubusercontent.com/115983985/196926949-6342555e-9e11-47c2-b5ba-d5ae1e7951ab.png)
 <h3>Intro</h3> <hr>
  
 👋 Hi, I’m **Nigel Jaure**, a full-stack software developer and a designer based in Harare, Zimbabwe
