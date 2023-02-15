@@ -65,5 +65,6 @@ MUZINDA HUB/ TREEHOUSE
 ➜ <a href="https://twitter.com/njcozw">Twitter</a> <br>
 ➜ <a href="https://www.linkedin.com/in/nigeljaure/">LinkedIn</a> <br>
 ➜ <a href="https://wa.me/263782000340">WhatsApp</a> <br>
+➜ <a href="https://leetcode.com/jenesiszw/">LeetCode</a> <br>
 
 
