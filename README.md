@@ -8,9 +8,9 @@ I'm an experienced software developer with expertise in the design, development,
 
 <h3>Employement History</h3><hr>
 
-1. <h4>Full-Stack Software Developer, <a href="https://contitouch.co.zw/">Contitouch Technologies</a></h4>
+ <h4>Full-Stack Software Developer, <a href="https://contitouch.co.zw/">Contitouch Technologies</a></h4>
 
-*May 2019* — *Feb 2023, Harare*
+*May 2019* — *Present*, *Harare*
 
 <h3>Skills & Tools</h3> <hr>
 
@@ -45,11 +45,6 @@ I'm an experienced software developer with expertise in the design, development,
 ➜ Developed ContiPay Plugins(WooCommerce & PHP)<br>
 ➜ Developed Poshto(ContiPay) Utility payments system(Integrate ZETDC/Powertel API's & ZB/Dstv Api's, WhatsApp chatbot & API's for mobile & web interfaces)<br>
 ➜ Developed Loan Application System & Supporting Legacy System(WhatsApp/Telegram chatbot & USSD)<br>
-
-
-2. <h4>Software Engineer, <a href="https://www.velocityinc.tech/">Velocity Tech Inc</a></h4>
-
-*Feb 2023* — *Present, Harare*
 
 
 <h3>Education</h3><hr>
